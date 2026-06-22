@@ -1,3 +1,6 @@
+<img width="1917" height="926" alt="Image" src="https://github.com/user-attachments/assets/23c9ca99-2119-4a7c-aaf0-f96e169d3aec" />
+<img width="1917" height="887" alt="Image" src="https://github.com/user-attachments/assets/d3e55df3-0478-4ddb-a810-60a9e428aff7" />
+
 <div align="center">
 
 # ₿ Bitcoin Time Series Analysis & Forecasting
