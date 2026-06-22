@@ -327,8 +327,8 @@ bitcoin-time-series-analysis/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/bitcoin-time-series-analysis.git
-cd bitcoin-time-series-analysis
+git clone https://github.com/Akshay8087/-Bitcoin-Time-Series-Analysis-Forecasting.git
+cd -Bitcoin-Time-Series-Analysis-Forecasting
 ```
 
 ### 2. Create a Virtual Environment
@@ -337,13 +337,15 @@ cd bitcoin-time-series-analysis
 python -m venv venv
 ```
 
-Activate it:
+Activate the virtual environment:
 
 ```bash
 # Windows
 venv\Scripts\activate
+```
 
-# macOS/Linux
+```bash
+# macOS / Linux
 source venv/bin/activate
 ```
 
@@ -353,7 +355,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Or install manually:
+If `requirements.txt` is not available, install the required libraries manually:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scipy statsmodels scikit-learn xgboost lightgbm pmdarima jupyter
@@ -365,11 +367,12 @@ pip install pandas numpy matplotlib seaborn scipy statsmodels scikit-learn xgboo
 jupyter notebook
 ```
 
-Open:
+Then open the notebook file:
 
 ```bash
 Bitcoin_Time_Series_Analysis.ipynb
 ```
+
 
 ---
 
